@@ -21,7 +21,7 @@ code {
 #box {
   background-color: #FFF;
   display: block;
-  margin-right: 20px;
+  margin: 20px 20px 0 0;
 }
 
 .boxArea {
